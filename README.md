@@ -9,6 +9,5 @@ An Approach to minimize the attack of spammers and bots on youtube videos in ord
 2) Used webscrapper made using Python to scrap data from latest youtube videos, so that latest type of spam comments are also captured.
 
 ### Approach:
-
-![image](https://user-images.githubusercontent.com/29229114/157505162-0db46a7d-5d81-45ca-8ac1-8e6d9dc87e37.png)
+![image](https://user-images.githubusercontent.com/29229114/157512548-550982c5-e10e-4adb-b6df-f98b52ebf9ec.png)
 
